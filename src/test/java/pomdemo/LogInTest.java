@@ -13,6 +13,8 @@ public class LogInTest {
 		lp.enterUsername("standard_user");
 		lp.enterPassword("secret_sauce");
 		lp.logInMethod();
+		
+		
 
 	}
 
